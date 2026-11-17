@@ -1,4 +1,4 @@
-# Snowflower Launcher
+
 
 A personal, non-commercial desktop launcher for **Minecraft: Java Edition** (Windows), built with Rust + Tauri.
 
