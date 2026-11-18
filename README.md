@@ -17,5 +17,4 @@ A personal, non-commercial desktop launcher for **Minecraft: Java Edition** (Win
 ## Supported versions
 Minecraft 1.21.1 – 1.21.11, 26.1 – 26.3 (Fabric)
 
-Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.# snowflower-launcher
-Personal Minecraft: Java Edition launcher (Fabric + performance mods)
+Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
