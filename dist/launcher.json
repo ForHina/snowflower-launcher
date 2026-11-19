@@ -1,6 +1,6 @@
 {
- "version": "0.1.38",
+ "version": "0.1.39",
  "file": "SnowflowerLauncher-Setup.exe",
- "sha256": "bcb8a4afb49b3af77460d244110de2c7ab870fdf06d2c68c8825c52c7059910f",
- "notes": "시작 화면 4초 고정, 45도씩 3번"
+ "sha256": "7743d2c2ccba2c565a7b8f43e01b46a365066d7b935c77f305acfd14ae49d72a",
+ "notes": "시작 화면: 눈꽃이 아래에서 부드럽게 올라옴"
 }
