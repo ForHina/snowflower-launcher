@@ -1,6 +1,6 @@
 {
- "version": "0.1.32",
+ "version": "0.1.33",
  "file": "SnowflowerLauncher-Setup.exe",
- "sha256": "191807867551fd72770d0995cb8ff068c4c1fcb6df044ff9c3a3d249a0fbe99a",
- "notes": "Fullbright 자동 설치 추가"
+ "sha256": "bede4c71c04dbed0c2fa6de1e8afad3d3a58376d08a9108da6714f920d326d22",
+ "notes": "켤 때 자동 업데이트, 계정 여러 개, 스킨 바꾸기, 로그인 정보 암호화"
 }
