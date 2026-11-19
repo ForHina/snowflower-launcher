@@ -1,6 +1,6 @@
 {
- "version": "0.1.34",
+ "version": "0.1.35",
  "file": "SnowflowerLauncher-Setup.exe",
- "sha256": "7edb932f032ccd81ec404f5317579cb2dbbd091eead2d0ec7fca705520d93ea3",
- "notes": "시작 화면 추가"
+ "sha256": "cfd8c33fd48a95ac783c0b7e39a4a30acc329fb00704197bcc066a2b31ac2ece",
+ "notes": "시작 화면 눈꽃 회전, 바로 창 표시"
 }
