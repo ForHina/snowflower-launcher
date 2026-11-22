@@ -1,69 +1,69 @@
 {
- "version": "1.9.32",
+ "version": "1.9.33",
  "files": {
   "1.21.1": {
    "file": "../snowflower/Snowflower-1.21.1.jar",
-   "sha256": "8f1ae4537935c9554340cfba388ebd93838e010160bde4d52af1f16eeebd2a46"
+   "sha256": "ff1ba9d7901909da7822cac0773ffdc5ea61c548f8ff5adbba18b7c79d649b9e"
   },
   "1.21.10": {
    "file": "../snowflower/Snowflower-1.21.10.jar",
-   "sha256": "00a9100fd46e42a0535e743138d73be8a073d86fd6b8d02cda9a5befd71578c4"
+   "sha256": "d5f9154a8be61ecb882c8fb6f95494284bfe9f7224f3aaee488d69a7669be221"
   },
   "1.21.11": {
    "file": "../snowflower/Snowflower-1.21.11.jar",
-   "sha256": "eee306dd7548ad0fd658e47c722a56774d4707b9490f0901057602aa34e6cb2f"
+   "sha256": "39e08c0fc94067e91662904da8408340cb7e674411b1660cd82093988804298b"
   },
   "1.21.2": {
    "file": "../snowflower/Snowflower-1.21.2.jar",
-   "sha256": "370ac8f9dbcf47e560a2d12dd41f548d5d94deccd0dcfa9450249f7bd303773a"
+   "sha256": "c60861de0c819eca6bf578d20d42b226fc2f1726f74e7a94db50a605b4329ec3"
   },
   "1.21.3": {
    "file": "../snowflower/Snowflower-1.21.3.jar",
-   "sha256": "575a7604b8f4f8d8ba33551f54573204345f7186b602a21509d05b5380c69290"
+   "sha256": "8e430109910cdf3921ad66ebc63fd5c0961f03f1a969cabc22c696f0c61cb71e"
   },
   "1.21.4": {
    "file": "../snowflower/Snowflower-1.21.4.jar",
-   "sha256": "8fc7e96bd9ef074740bf965e1bfeb8d4c6c4f9aff9169c4b1df7658c8617bb54"
+   "sha256": "8d489a8d4a04b6e04f3b7bab387fc962c36a942bd0b67670768f6e543c8a3842"
   },
   "1.21.5": {
    "file": "../snowflower/Snowflower-1.21.5.jar",
-   "sha256": "4c08df48f02fa4f07aed23201f9c2c5a526b81b8350681523775208045ef8c82"
+   "sha256": "29640b5063a3f711781912ef9d893f95c594c1744bfaf35b279659fd8c97ecff"
   },
   "1.21.6": {
    "file": "../snowflower/Snowflower-1.21.6.jar",
-   "sha256": "baf02f659d38b898acb703395ba72c6e618c8b52e460825269e22afa1fdc135a"
+   "sha256": "ad46b449499b73c5965bb1dd3afea01a5cdfa9591f453adf455150528fa4d739"
   },
   "1.21.7": {
    "file": "../snowflower/Snowflower-1.21.7.jar",
-   "sha256": "22744c5bbff28dae1ed62413e8f6b70b52c252a03ae2766c6326e1a90f9f5490"
+   "sha256": "1b543e4cc594e14d2435e259d413d48f55f5b56eb5889d6841c28e021ffba160"
   },
   "1.21.8": {
    "file": "../snowflower/Snowflower-1.21.8.jar",
-   "sha256": "ba2c0495590d981416a6b65f83d63c46d0b637679b9f34a147482b3d8d0a06dc"
+   "sha256": "6a74754380ee68b51a88f82cbddc8a537d4504850d7e042ed27b3316fc19ff65"
   },
   "1.21.9": {
    "file": "../snowflower/Snowflower-1.21.9.jar",
-   "sha256": "5f2a7aa5fad7cbae9d661b4780e3f7ab609d208496a064eddca7f28d133763fa"
+   "sha256": "a7f4427f172b41392bdc0d610a87962696186279dc4f7037133e8e2ecbf490a8"
   },
   "26.1": {
    "file": "../snowflower/Snowflower-26.1.jar",
-   "sha256": "92cb8b34e913c006d0f62546da7ec3d60b57380b4af899a404323c6a3f6f5943"
+   "sha256": "fa90073e1ba5c6bcff63b6f408019456845ec0360033ab85a0740aac91ec733f"
   },
   "26.1.1": {
    "file": "../snowflower/Snowflower-26.1.1.jar",
-   "sha256": "87eae8e81825275bb7b6756eea64f5d9a2a13c38e5fb2b81a70ebb9574d6fbac"
+   "sha256": "5ad6a88bb11d975e3c6c99a362cf999c274a4a2eaba2fbfc33f3c01dcb379272"
   },
   "26.1.2": {
    "file": "../snowflower/Snowflower-26.1.2.jar",
-   "sha256": "4c73199dda43a913e50454f5aa091e91ac40e4551115e905b5d82f28e345f16f"
+   "sha256": "33a99f631b86a401189f000566d99f9d518153b569244e1fde846d1d52389fd2"
   },
   "26.2": {
    "file": "../snowflower/Snowflower-26.2.jar",
-   "sha256": "3ff23b1b9352668ef6ce6014f06d92685fcdb0be9ecbccea76f652eae63866c1"
+   "sha256": "a88b9e773289baf5df904578f5313e3cfe1528220d3054a44e822e2407749ae6"
   },
   "26.3": {
    "file": "../snowflower/Snowflower-26.3.jar",
-   "sha256": "036eb54829a1ef82ba80b976c42900f3a0e4e4332d70303281f4587570d67910"
+   "sha256": "0a969ef7920d332d839a5b83324fb3596b66a4ed02bd08d09a0897821ec42063"
   }
  }
 }
