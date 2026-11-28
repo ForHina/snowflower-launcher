@@ -1,6 +1,6 @@
 {
- "version": "0.1.44",
+ "version": "0.1.45",
  "file": "SnowflowerLauncher-Setup.exe",
- "sha256": "c6e62f9e4b0756391a8f7ab07ee47224fbb3042d8236377b230f151de1d0bb5d",
- "notes": "플레이 버튼 옆 실행 방식 칸 (잔디 블록 / Fabric 아이콘)"
+ "sha256": "2dfaacbcdfb164f402fa45711129100978031a9ab1b058776e22bbfa00a2df02",
+ "notes": "잔디 블록 아이콘 모양 수정"
 }
