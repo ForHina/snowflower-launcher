@@ -1,6 +1,6 @@
 {
- "version": "0.1.41",
+ "version": "0.1.44",
  "file": "SnowflowerLauncher-Setup.exe",
- "sha256": "afeadafe04151822f1e204dd84c0e3f34fcddb35e33c69f9abdf3c9d5a344a64",
- "notes": "게임 홈 화면 새 디자인"
+ "sha256": "c6e62f9e4b0756391a8f7ab07ee47224fbb3042d8236377b230f151de1d0bb5d",
+ "notes": "플레이 버튼 옆 실행 방식 칸 (잔디 블록 / Fabric 아이콘)"
 }
